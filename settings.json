@@ -5,8 +5,8 @@
     "password": "",
     "type": "offline"
   },
-  "server": {HiddenDimension_SMP.aternos.me
-    "ip": "ricoiscool.aternos.me",
+  "server": {
+    "ip": "HiddenDimension_SMP.aternos.me",
     "port": 59785,
     "version": "1.21.1"
   },
